@@ -1,2 +1,1 @@
-# seshinweb
-ss
+# seshin
